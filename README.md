@@ -1,7 +1,6 @@
 # Creating an E-commerce Product Categorization Model Using Deep Learning
 
-In this project, we build a predictive model and categorize products in an e-commerce data set. Product categorization is a supervised classification problem where the product categories are the target classes, and the features are the words extracted from the product description or an image.
-
+Here, we build a predictive model to categorize products in an e-commerce data set. Product categorization is a supervised classification problem where the product categories are the target classes, and the features are the words extracted from the product description or an image.
 The aim is to successfully classify product categories with high precision using state machine learning and deep learning techniques.
 
 ## Methodology and Approach
@@ -18,4 +17,4 @@ The other approach is multiclass text classification. Instead of images, we need
 
 This model can be built using traditional machine learning algorithms (naive Bayes classifier, logistics regression, support vector machine classifier, random forest classifier) and deep neural networks.
 
-We implement the multiclass text classification using different deep neural networks algorithms, based on Keras sequential libraries, underlying back end as tensor flow framework.
+We implement the multiclass text classification using different deep neural networks algorithms.
